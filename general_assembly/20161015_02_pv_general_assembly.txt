@@ -1,0 +1,23 @@
+Procès verbal de l'assemblée génerale de l'association Buildroot:
+Lieu: Lehrter Str. 53, 10557 Berlin, Allemagne
+Date: 16/10/2016
+Présents:
+    - Maxime Hadjinlian
+    - Peter Korsgaard
+    - Samuel Martin
+    - Yann E. Morin
+    - Romain Naour
+    - Thomas Petazzoni
+    - Arnout Vandecappelle
+
+Sujet 1: Ouverture d'un compte bancaire
+
+A l'unanimité, les membres ont votés l'ouverture d'un compte bancaire.
+
+Sujet 2: Droits sur le compte bancaire
+
+A l'unanimité, les membres présents donnent pouvoir au représentant legal de
+l'association, Maxime Hadjinlian, pour l'ouverture et la gestion d'un compte
+bancaire au nom de l'association.
+
+Une procuration pourra être créée pour Thomas Petazzoni.
