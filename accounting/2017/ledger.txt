@@ -5,3 +5,4 @@
 2017-05-15  +    50.00      bank-summary-2017-3.pdf                     Wire-transfer from Thomas Petazzoni
 2017-05-15  -   337.04      N/A                                         End of funds held by Yann on his own bank account
 2017-05-15  +   381.04      bank-summary-2017-3.pdf                     Wire-transfer from Yann E. MORIN
+2017-07-04  -    13.50      bank-summary-2017-4.pdf                     Fees for management of bank account
