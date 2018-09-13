@@ -1,1 +1,2 @@
 2018-01-01  +   393.54      N/A                                         Balancing funds from 2017
+2018-01-03  -    13.50      bank-summary-2018-1.pdf                     Fees for management of bank account
