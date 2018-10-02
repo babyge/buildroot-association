@@ -1,0 +1,5 @@
+2018-01-01  +   393.54      N/A                                         Balancing funds from 2017
+2018-01-03  -    13.50      bank-summary-2018-1.pdf                     Fees for management of bank account
+2018-03-02  +   200.00      bank-summary-2018-2.pdf                     Wire-transfer from Julien Boibessot / Armadeus
+2018-04-04  -    13.50      bank-summary-2018-3.pdf                     Fees for management of bank account
+2018-07-03  -    13.50      bank-summary-2018-4.pdf                     Fees for management of bank account

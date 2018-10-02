@@ -1,0 +1,10 @@
+2017-01-01  +   337.04      N/A                                         Balancing funds from 2016
+2017-01-12  -    12.00      bank-summary-2017-1.pdf                     Fees for management of bank account
+2017-01-16  +    15.00      bank-summary-2017-1.pdf                     Desposit of check from Maxime Hadjinlian
+2017-04-04  -    13.50      bank-summary-2017-2.pdf                     Fees for management of bank account
+2017-05-15  +    50.00      bank-summary-2017-3.pdf                     Wire-transfer from Thomas Petazzoni
+2017-05-15  -   337.04      N/A                                         End of funds held by Yann on his own bank account
+2017-05-15  +   381.04      bank-summary-2017-3.pdf                     Wire-transfer from Yann E. MORIN
+2017-07-04  -    13.50      bank-summary-2017-4.pdf                     Fees for management of bank account
+2017-10-03  -    13.50      bank-summary-2017-5.pdf                     Fees for management of bank account
+2018-01-01  -   393.54      N/A                                         Balancing funds unto 2018
