@@ -5,3 +5,4 @@
 2018-07-03  -    13.50      bank-summary-2018-4.pdf                     Fees for management of bank account
 2018-10-02  +   250.00      2018-0001-bootlin-sponsoring.pdf            Bootlin Sponsoring for the DevDays before ELCE`18
 2018-10-02  +   200.00      2018-0002-logilin-sponsoring.pdf            Logilin Sponsoring for the DevDays before ELCE`18
+2018-10-02  +   500.00      2018-0003-mind-sponsoring.pdf               Mind Sponsoring for the DevDays before ELCE`18
