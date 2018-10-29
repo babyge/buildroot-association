@@ -1,0 +1,49 @@
+Present: Yann E. MORIN, Romain Naour, Thomas Petazzoni, Peter Korsgaard,
+         Arnout Vandecappelle (reporter)
+Observers: Luca Ceresoli, Matthew Weber, Alexey Brodkin, Mark Corbin
+
+Moral report 2016 and 2017: "Nothing was done". Unanimously approved.
+
+Financial report 2016 and 2017: see ledger.txt. Unanimously approved.
+
+Yann E. MORIN is assigned as the treasurer.
+
+Invoice template is approved.
+
+Invoices and other financial reports will be kept in the publicly visible github
+repository.
+
+To make it easier for new members to pay, a paypal account will be created by Yann.
+
+To keep track of who has paid the membership fee, the ledger.txt file of the year 
+will have a tag "Membership fee" with the name of the member. That way it's easy to
+grep for the current members. Membership is per calendar year.
+
+Can we attract sponsors to support the maintenance work? The issue is that our
+maintainers don't get to do anything else than their maintenance work any more, which
+risks burning them out. However, getting funding for maintenance work is difficult.
+Still, we estimate that it should be possible to collect funds for about 25 days per
+year.
+
+We think that the easiest sell is to make it the LTS branch maintenance: if it doesn't
+get funded, it will not happen anymore. The idea would be that this work then shifts
+from Peter to someone else, so that Peter is free to do more maintenance work on
+master and do some development work, and so that Thomas is also freed up to do more
+development work.
+
+One issue is that when someone gets paid to do work that used to be done by a
+volunteer, it creates some friction. Here also the LTS maintenance could reduce the
+friction a bit, because it's not the most sexy work. Also, the person who gets paid
+for it would be doing it as their daytime job, so in addition to their normal
+Buildroot work.
+
+It looks like Arnout is the only candidate to do this. For Peter, it is impossible to
+organise with his employer. Thomas does not consider himself suitable for doing LTS
+branch maintenance.
+
+A major concern is that 25 days is probably not enough to cover all of the LTS branch
+maintenance work. And we are not even sure that we will get sufficient funding for
+these 25 days.
+
+Because of all the concerns, we delay a real decision until the FOSDEM meeting. In
+that time we will see how easy it is to get sponsoring from companies.
