@@ -26,3 +26,15 @@ Reference
 
 Reason
     Human-readable short description of the reason for the transaction.
+
+    When registering membership fees for a member, the reason shall be
+    formatted as such:
+        NAME YEAR membership fees 
+    where:
+        NAME should be replaced with the member's identification
+        YEAR is the 4-digit year which the membership fees apply to
+        'membership fees' is written literaly
+    For example:
+        John R. Doe 2018 membership fees
+
+    Otherwise, the field is free-form.
