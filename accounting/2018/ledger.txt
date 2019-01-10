@@ -21,3 +21,6 @@
 2018-11-07  +    20.00      N/A                                         Romain Naour 2018 membership fees
 2018-11-07  +    20.00      N/A                                         Yann E. MORIN 2018 membership fees
 2018-12-17  +    20.00      N/A                                         Thomas Petazzoni 2018 membership fees
+2019-01-01  +   638.83      2018-airbnb-devdays-elce.pdf                Cancel the unpaid Airbnb rental (2018-10-29)
+2019-01-01  -   106.47      2018-0006-petazzoni-devdays-participation.pdf   Cancel the unpaid bill for Thomas' Airbnb stay (2018-10-29)
+2019-01-01  -  2462.82      N/A                                         Balancing funds unto 2019
