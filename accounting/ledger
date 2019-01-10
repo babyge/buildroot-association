@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+
+main() {
+    local year="${1}"
+    local balance _b
+
+    if [ -z "${year}" ]; then
+        year="$( find accounting/*/ledger.txt -printf '%h\n' \
+                 |tail -n 1 \
+                 |sed -r -e 's:^.*/::'
+               )"
+    fi
+    if [ ! -d "accounting/${year}" ]; then
+        error "%s: no such year in accounting\n" "${year}"
+    fi
+    if [ ! -f "accounting/${year}/ledger.txt" ]; then
+        error "%s: no ledger for that year\n" "${year}"
+    fi
+
+    balance=0
+    while read date direction amount ref desc; do
+        _b="${balance}"
+        amount="$(euro2cent "${amount}")"
+        case "${direction}" in
+        (+) balance=$((balance+amount));;
+        (-) balance=$((balance-amount));;
+        esac
+        printf "%s: %8s %s %8s -> %8s\n" \
+            "${date}" \
+            "$(cent2euro "${_b}")" \
+            "${direction}" \
+            "$(cent2euro "${amount}")" \
+            "$(cent2euro "${balance}")"
+    done <"accounting/${year}/ledger.txt"
+
+    printf "Balance for year %s: %s\n" \
+        "${year}" \
+        "$(cent2euro "${balance}")"
+}
+
+euro2cent() { printf "%s"  "$(( (${1%.*}*100) + ${1#*.} ))"; }
+cent2euro() { printf "%d.%02d" "$((${1}/100))" "$((${1}%100))"; }
+
+trace()  { local msg="${1}"; shift; printf "%s: ${msg}" "${my_name}" "${@}"; }
+warn()   { trace "${@}" >&2; }
+errorN() { local ret="${1}"; shift; warn "${@}"; exit ${ret}; }
+error()  { errorN 1 "${@}"; }
+
+my_name="${0##*/}"
+main "${@}"
