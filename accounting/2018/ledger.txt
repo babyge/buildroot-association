@@ -13,6 +13,8 @@
 2018-10-29  +   106.47      2018-0006-petazzoni-devdays-participation.pdf   Bill Thomas for his stay at the developers days (nights)
 2018-10-29  +   106.47      2018-0007-naour-devdays-participation.pdf   Bill Romain for his stay at the developers days (nights)
 2018-10-29  +   106.47      2018-0008-weber-devdays-participation.pdf   Bill Matt for his stay at the developers days (nights)
+2018-11-02  +     0.16      N/A                                         Paypal test 1/2
+2018-11-02  +     0.18      N/A                                         Paypal test 2/2
 2018-11-06  -   250.00      2018-0009-tkos-sponsoring.pdf               Cancel previous bill to Tk Open Systems, as the amount was incorrect
 2018-11-06  +   330.00      2018-0009-tkos-sponsoring.pdf               Tk Open Systems Sponsoring for the DevDays before ELCE`18, billing the actual amount
 2018-11-06  -    13.50      bank-summary-2018-5.pdf                     Fees for management of bank account
