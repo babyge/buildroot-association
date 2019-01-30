@@ -1,3 +1,8 @@
-2019-01-01  +  2462.82      N/A                                         Balancing funds from 2018
-2019-01-01  -   638.83      2018-airbnb-devdays-elce.pdf                Recall the unpaid Airbnb rental (2018-10-29)
+2019-01-01  +  2462.82      N/A                                             Balancing funds from 2018
+2019-01-01  -   638.83      2018-airbnb-devdays-elce.pdf                    Recall the unpaid Airbnb rental (2018-10-29)
 2019-01-01  +   106.47      2018-0006-petazzoni-devdays-participation.pdf   Recall the unpaid bill for Thomas' Airbnb stay (2018-10-29)
+2019-01-03  -    13.50      bank-summary-2019-1.pdf                         Fees for management of bank account
+2019-01-28  +    20.00      N/A                                             Thomas Petazzoni 2019 membership fees
+2019-01-28  +    20.00      N/A                                             Yann E. MORIN 2019 membership fees
+2019-01-29  +    20.00      N/A                                             Romain Naour 2019 membership fees
+2019-01-29  +    20.00      N/A                                             Peter Korsgaard 2019 membership fees
