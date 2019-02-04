@@ -38,7 +38,7 @@ main() {
         "$(cent2euro "${balance}")"
 }
 
-euro2cent() { printf "%s"  "$(( (${1%.*}*100) + ${1#*.} ))"; }
+euro2cent() { sed -r -e 's/^0+//' <<<"${1/./}"; }
 cent2euro() { printf "%d.%02d" "$((${1}/100))" "$((${1}%100))"; }
 
 trace()  { local msg="${1}"; shift; printf "%s: ${msg}" "${my_name}" "${@}"; }
