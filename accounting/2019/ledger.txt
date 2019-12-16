@@ -10,4 +10,4 @@
 2019-02-04  -    54.08      accounting/2019/dommain-names/                  Reimburse Peter for the Buildroot domain names
 2019-02-05  +    47.55      N/A                                             Matthew Weber 2019 membership fees (Paypal)
 2019-02-05  +    20.00      N/A                                             Thomas De Schampeleire 2019 membership fees
-2018-02-20  +    23.00      N/A                                             David Jansen donation
+2019-02-20  +    23.00      N/A                                             David Jansen donation
