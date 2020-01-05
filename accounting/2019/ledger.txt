@@ -14,4 +14,5 @@
 2019-04-02  -    13.50      bank-summary-2019-3.pdf                         Fees for management of bank account
 2019-07-02  -    13.50      bank-summary-2019-4.pdf                         Fees for management of bank account
 2019-09-16  +  2846.86      2019-09-12-payoneer-report.pdf                  GSoC stipends
+2019-10-17  -    13.50      N/A                                             Fees for management of bank account
 2019-12-16  -    89.16      20191123-buildroot-org-5-years.pdf              Reimburse Peter for the Buildroot domain names
