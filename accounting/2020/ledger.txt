@@ -3,3 +3,6 @@
 2020-01-27  -   646.36      dev-days-fosdem-adam-trip                       Participation to Adam Duskett's travel from US to attend DevDays at FOSDEM
 2020-01-27  +   500.00      2020-0001-logilin-sponsoring.pdf                Logilin sponsoring for the DevDays after FOSDEM 2020
 2020-01-27  +   500.00      2020-0002-armadeus-systems-sponsoring.pdf       Armadeux Systems sponsoring for the DevDays after FOSDEM 2020
+2020-02-04  +    20.00      N/A                                             Thomas Petazzoni 2020 membership fees
+2020.02-05  +    20.00      N/A                                             Peter Korsgaard 2020 membership fees
+2020-02-05  +    20.00      N/A                                             Romain Naour 2020 membership fees
