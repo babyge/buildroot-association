@@ -1,5 +1,5 @@
 2020-01-01  +  4770.63      N/A                                             Balancing funds from 2019
-2020-01-17  -    19.50      N/A                                             Fees for management of bank account
+2020-01-17  -    19.50      bank-summary-2020-1.pdf                         Fees for management of bank account
 2020-01-27  -   646.36      dev-days-fosdem-adam-trip                       Participation to Adam Duskett's travel from US to attend DevDays at FOSDEM
 2020-01-27  +   500.00      2020-0001-logilin-sponsoring.pdf                Logilin sponsoring for the DevDays after FOSDEM 2020
 2020-01-27  +   500.00      2020-0002-armadeus-systems-sponsoring.pdf       Armadeux Systems sponsoring for the DevDays after FOSDEM 2020
