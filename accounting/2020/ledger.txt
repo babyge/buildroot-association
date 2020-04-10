@@ -6,3 +6,4 @@
 2020-02-04  +    20.00      N/A                                             Thomas Petazzoni 2020 membership fees
 2020.02-05  +    20.00      N/A                                             Peter Korsgaard 2020 membership fees
 2020-02-05  +    20.00      N/A                                             Romain Naour 2020 membership fees
+2020-04-07  +   215.06      2020-0003-tap2open-sponsoring.pdf               Tap2Open sponsorship [Paypal]
