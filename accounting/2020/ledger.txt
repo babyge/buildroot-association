@@ -7,3 +7,4 @@
 2020.02-05  +    20.00      N/A                                             Peter Korsgaard 2020 membership fees
 2020-02-05  +    20.00      N/A                                             Romain Naour 2020 membership fees
 2020-04-07  +   215.06      2020-0003-tap2open-sponsoring.pdf               Tap2Open sponsorship [Paypal]
+2020-12-14  -     0.00      INV00092148_A00034545_12142020.pdf              Gitlab Gold access (free through Open Source Software program) 
